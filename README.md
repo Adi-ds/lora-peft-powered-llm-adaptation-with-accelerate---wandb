@@ -31,6 +31,6 @@ The fine-tuned model has been uploaded to :hugs: hub. Click [🤗](https://huggi
 3. **The Grand AI Buffet Opens**: It's finally time to indulge! This [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width=60>](https://www.kaggle.com/code/adityadawn/llm-inference) notebook throws open the doors, unleashing the PEFT model on real-world data. It's the grand reveal, the moment to witness the culmination of all the efforts – the AI creation, ready to serve up a feast of insights and solutions.
 
 
-### Please UPVOTE my notebooks in <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width=60>
+### Please UPVOTE my notebooks in <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width=60>. You can also connect me on [<img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" width=75>](https://www.linkedin.com/in/adityadawn-ds/)
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

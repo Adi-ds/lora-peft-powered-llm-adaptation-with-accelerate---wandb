@@ -2,7 +2,9 @@
 
 <img src="https://i.imgur.com/vnejHGh.png">
 
-<img src="https://www.jardiradio.com/blog/assets/96_hf_bitsandbytes_integration/Thumbnail_blue.png">
+<p align="center">
+  <img src="https://www.jardiradio.com/blog/assets/96_hf_bitsandbytes_integration/Thumbnail_blue.png" width=800>
+</p>
 
 <p align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width=240> <img src="https://www.altoros.com/blog/wp-content/uploads/2016/01/tensorflow-logo-cropped.png" width=300> <img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" width=344>
